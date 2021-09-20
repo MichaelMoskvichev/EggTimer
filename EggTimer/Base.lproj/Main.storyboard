@@ -181,7 +181,9 @@
                     </view>
                     <connections>
                         <outlet property="headLabel" destination="XLm-5r-pSP" id="Cpr-WX-hY4"/>
+                        <outlet property="minTriger" destination="vAG-xh-4tD" id="f6f-XZ-eDx"/>
                         <outlet property="progressView" destination="Shy-ah-yDS" id="c5J-ea-BYS"/>
+                        <outlet property="secTriger" destination="kn4-xg-KXU" id="QAb-XO-LY1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
